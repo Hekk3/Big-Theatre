@@ -1646,6 +1646,12 @@ footer .footer-center .footer-footer a:hover {
     left: 0;
   }
 }
+@media screen and (max-height: 520px) {
+  header .left-panel .left-panel-content-media .burger-icons {
+    top: 75%;
+    grid-gap: 25px;
+  }
+}
 
 @media screen and (max-width: 510px) {
   .about .about-center {
