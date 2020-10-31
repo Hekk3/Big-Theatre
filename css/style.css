@@ -1054,6 +1054,7 @@ body {
       -ms-flex-pack: justify;
           justify-content: space-between;
   outline: none;
+  z-index: 99;
   width: 30px;
   height: 30px;
   background: transparent;
